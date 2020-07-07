@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dbe5027-b74b-476d-8a25-1ab677078f02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/travel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home/component/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home/component/hot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home/component/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home/component/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lazy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/cyts3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/des_pic00001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/des_pic00004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/des_pic00005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/des_pic00006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/des_pic00007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/des_pic00012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/des_pic00013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/tit-line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/whut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/component/editRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/component/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/component/myBill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/component/myRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/component/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cqUjlZ7KRobX64N4de6D1UgRY4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dbe5027-b74b-476d-8a25-1ab677078f02" name="Default Changelist" comment="" />
+      <created>1591255755225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591255755225</updated>
+      <workItem from="1591255758964" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="262" y="56" key="SettingsEditor" timestamp="1591255817712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591255817712" />
+  </component>
+</project>
